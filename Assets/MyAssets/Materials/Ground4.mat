@@ -73,8 +73,8 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Color: {r: 0.13679248, g: 0.7254588, b: 1, a: 0}
-    - _EmissionColor: {r: 0.13679248, g: 0.7254588, b: 1, a: 0}
+    - _Color: {r: 0.0990566, g: 1, b: 0.19365288, a: 0}
+    - _EmissionColor: {r: 0.0990566, g: 1, b: 0.19365288, a: 0}
 --- !u!114 &2527427937319200511
 MonoBehaviour:
   m_ObjectHideFlags: 11
