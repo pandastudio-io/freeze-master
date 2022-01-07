@@ -31,11 +31,12 @@ public class MyAdManager : MonoBehaviour
 
     public void Start()
     {        
-        MobileAds.Initialize(appId);
+       /* MobileAds.Initialize(appId);
 
         this.RequestBanner();
 
         this.RequestInterstitial();
+       */
     }
 
     private void RequestBanner()
